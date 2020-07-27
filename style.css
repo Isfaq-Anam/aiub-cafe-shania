@@ -23,12 +23,31 @@
     cursor: pointer;
 
 }
-background-image: linear-gradient(to bottom,#ff5898 0%,#ff136f 100%);
-color: #fff;
-border: none;
-border-radius: 8px;
-padding: 9px 25px;
-cursor: pointer;
+.cat1{
 
-
-background-image: linear-gradient(to bottom,#fca129 0%,#fa770c 100%);
+    background-image: linear-gradient(to right,#fca129 0%,#ffd781 100%);
+padding: 10px 30px;
+border-radius: 10px;
+}
+.cat2{
+    background-image: linear-gradient(to right,#fca129 0%,#ffd781 100%);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-image: linear-gradient(to right,#fca129 40%,#000000 100%);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.black{
+    text-decoration: none;
+    color: black;
+    
+}
+footer{
+    text-align: center;
+}
